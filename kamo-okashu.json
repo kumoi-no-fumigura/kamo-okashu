@@ -6,7 +6,12 @@
  "category": "私家集",
  "kind": "kashu",
  "author": "賀茂真淵",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸時代中期",
+  "author": "賀茂真淵",
+  "desc": "国学者賀茂真淵の家集。万葉調を重んじた歌を収める。"
+ },
  "editions": [
   {
    "pid": "1913662",
